@@ -1,0 +1,25 @@
+# .env 파일 무시 (backend 기준)
+.env
+
+# Python
+backend/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 가상환경 폴더 무시
+venv/
+.venv/
+venv*/
+
+# VS Code 설정 무시
+.vscode/
+
+# macOS / Windows OS
+.DS_Store
+Thumbs.db
