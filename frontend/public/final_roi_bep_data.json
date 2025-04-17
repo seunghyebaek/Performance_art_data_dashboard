@@ -1,0 +1,802 @@
+[
+  {
+    "performance_name": "공연_1001",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 48427533602.0,
+    "roi": -1.0,
+    "bep": 212868.33496178212
+  },
+  {
+    "performance_name": "공연_1002",
+    "accumulated_sales": 12,
+    "revenue": 1141200,
+    "total_cost": 69264580.56,
+    "roi": -0.9835240466227693,
+    "bep": 934.8732033517656
+  },
+  {
+    "performance_name": "공연_1003",
+    "accumulated_sales": 5,
+    "revenue": 141255,
+    "total_cost": 9833943017.8975,
+    "roi": -0.9999856359753414,
+    "bep": 411698.5018203278
+  },
+  {
+    "performance_name": "공연_1004",
+    "accumulated_sales": 304,
+    "revenue": 47901584,
+    "total_cost": 37115698728.4784,
+    "roi": -0.99870939829665,
+    "bep": 263176.9981089444
+  },
+  {
+    "performance_name": "공연_1005",
+    "accumulated_sales": 135,
+    "revenue": 5484645,
+    "total_cost": 15596624.267,
+    "roi": -0.6483440963821483,
+    "bep": 455.99304286785167
+  },
+  {
+    "performance_name": "공연_1006",
+    "accumulated_sales": 37,
+    "revenue": 1177821,
+    "total_cost": 6647242585.2278,
+    "roi": -0.9998228105887669,
+    "bep": 246180.70402827987
+  },
+  {
+    "performance_name": "공연_1007",
+    "accumulated_sales": 23,
+    "revenue": 862638,
+    "total_cost": 626218771.0718,
+    "roi": -0.9986224654388377,
+    "bep": 21292.927017802085
+  },
+  {
+    "performance_name": "공연_1008",
+    "accumulated_sales": 45,
+    "revenue": 23670,
+    "total_cost": 28758595.648,
+    "roi": -0.9991769417293627,
+    "bep": 64648.99268321636
+  },
+  {
+    "performance_name": "공연_1009",
+    "accumulated_sales": 269,
+    "revenue": 1390461,
+    "total_cost": 64172240.6612,
+    "roi": -0.9783323601346414,
+    "bep": 16026.429917365944
+  },
+  {
+    "performance_name": "공연_1010",
+    "accumulated_sales": 44,
+    "revenue": 1898424,
+    "total_cost": 1554856456.5496,
+    "roi": -0.9987790358447539,
+    "bep": 41553.73817642808
+  },
+  {
+    "performance_name": "공연_1011",
+    "accumulated_sales": 2158,
+    "revenue": 83674292,
+    "total_cost": 201130338.6904,
+    "roi": -0.5839797588726787,
+    "bep": 6176.635720875614
+  },
+  {
+    "performance_name": "공연_1012",
+    "accumulated_sales": 43,
+    "revenue": 523267,
+    "total_cost": 301491728611.939,
+    "roi": -0.9999982644067802,
+    "bep": 31641610.858128607
+  },
+  {
+    "performance_name": "공연_1013",
+    "accumulated_sales": 40,
+    "revenue": 6212320,
+    "total_cost": 100742008.672,
+    "roi": -0.9383343643640626,
+    "bep": 729.386673300903
+  },
+  {
+    "performance_name": "공연_1014",
+    "accumulated_sales": 178,
+    "revenue": 15516438,
+    "total_cost": 1507251801.3862,
+    "roi": -0.9897054772230295,
+    "bep": 21172.660883066746
+  },
+  {
+    "performance_name": "공연_1015",
+    "accumulated_sales": 14,
+    "revenue": 284368,
+    "total_cost": 64487072.3904,
+    "roi": -0.9955903099728507,
+    "bep": 4216.108918892399
+  },
+  {
+    "performance_name": "공연_1016",
+    "accumulated_sales": 533,
+    "revenue": 83008887,
+    "total_cost": 627758254.0109,
+    "roi": -0.8677693419885186,
+    "bep": 4750.816555329304
+  },
+  {
+    "performance_name": "공연_1017",
+    "accumulated_sales": 70,
+    "revenue": 19027400,
+    "total_cost": 1522470714.02,
+    "roi": -0.9875022883364638,
+    "bep": 6407.831285030063
+  },
+  {
+    "performance_name": "공연_1018",
+    "accumulated_sales": 138,
+    "revenue": 31860198,
+    "total_cost": 33140488.1946,
+    "roi": -0.03863220683660945,
+    "bep": 144.70310482355657
+  },
+  {
+    "performance_name": "공연_1019",
+    "accumulated_sales": 370,
+    "revenue": 2398710,
+    "total_cost": 11635886.799,
+    "roi": -0.7938524118156471,
+    "bep": 2101.054067502845
+  },
+  {
+    "performance_name": "공연_1020",
+    "accumulated_sales": 11,
+    "revenue": 1013430,
+    "total_cost": 46648715.759,
+    "roi": -0.9782752861786023,
+    "bep": 639.0408061023578
+  },
+  {
+    "performance_name": "공연_1021",
+    "accumulated_sales": 730,
+    "revenue": 32876280,
+    "total_cost": 15774847.144000001,
+    "roi": 1.0840949962868305,
+    "bep": 252.47477515416682
+  },
+  {
+    "performance_name": "공연_1022",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 8235073.0,
+    "roi": -1.0,
+    "bep": 165.22351873482867
+  },
+  {
+    "performance_name": "공연_1023",
+    "accumulated_sales": 213,
+    "revenue": 36090081,
+    "total_cost": 2422085259.7487,
+    "roi": -0.9850995827439434,
+    "bep": 16449.48299595871
+  },
+  {
+    "performance_name": "공연_1024",
+    "accumulated_sales": 68,
+    "revenue": 4022268,
+    "total_cost": 6898846036.3424,
+    "roi": -0.9994169651012922,
+    "bep": 145191.3781114995
+  },
+  {
+    "performance_name": "공연_1025",
+    "accumulated_sales": 58,
+    "revenue": 3837454,
+    "total_cost": 1917844233.2382,
+    "roi": -0.9979990794176644,
+    "bep": 34632.70741900017
+  },
+  {
+    "performance_name": "공연_1026",
+    "accumulated_sales": 253,
+    "revenue": 25002472,
+    "total_cost": 14727223936.1456,
+    "roi": -0.9983022956594939,
+    "bep": 169273.41656949575
+  },
+  {
+    "performance_name": "공연_1027",
+    "accumulated_sales": 168,
+    "revenue": 14580720,
+    "total_cost": 7231580881.272,
+    "roi": -0.9979837437706379,
+    "bep": 108881.22158168741
+  },
+  {
+    "performance_name": "공연_1028",
+    "accumulated_sales": 85,
+    "revenue": 4051270,
+    "total_cost": 5981152202.699,
+    "roi": -0.999322660607404,
+    "bep": 157570.87639286421
+  },
+  {
+    "performance_name": "공연_1029",
+    "accumulated_sales": 222,
+    "revenue": 4131420,
+    "total_cost": 6168689209.55,
+    "roi": -0.9993302596613873,
+    "bep": 415582.18418317585
+  },
+  {
+    "performance_name": "공연_1030",
+    "accumulated_sales": 3815,
+    "revenue": 187530140,
+    "total_cost": 150061363.276,
+    "roi": 0.24968969964031082,
+    "bep": 2833.488047230294
+  },
+  {
+    "performance_name": "공연_1031",
+    "accumulated_sales": 105,
+    "revenue": 8198190,
+    "total_cost": 59204223.286,
+    "roi": -0.8615269393807143,
+    "bep": 901.0885125922904
+  },
+  {
+    "performance_name": "공연_1032",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 43457172.0,
+    "roi": -1.0,
+    "bep": 1918.793172399544
+  },
+  {
+    "performance_name": "공연_1033",
+    "accumulated_sales": 870,
+    "revenue": 37486560,
+    "total_cost": 61042681.032,
+    "roi": -0.3858959114140372,
+    "bep": 1532.423293936391
+  },
+  {
+    "performance_name": "공연_1034",
+    "accumulated_sales": 3329,
+    "revenue": 72778598,
+    "total_cost": 90806634.6398,
+    "roi": -0.19853215253831705,
+    "bep": 4255.65342508616
+  },
+  {
+    "performance_name": "공연_1035",
+    "accumulated_sales": 1,
+    "revenue": 37187,
+    "total_cost": 125342299.6696,
+    "roi": -0.9997033164374834,
+    "bep": 4016.246131710132
+  },
+  {
+    "performance_name": "공연_1036",
+    "accumulated_sales": 25,
+    "revenue": 1476650,
+    "total_cost": 23358019841.09,
+    "roi": -0.9999367818843359,
+    "bep": 479103.34573266027
+  },
+  {
+    "performance_name": "공연_1037",
+    "accumulated_sales": 200,
+    "revenue": 16678600,
+    "total_cost": 933663197.8,
+    "roi": -0.9821363848984302,
+    "bep": 14083.76525135276
+  },
+  {
+    "performance_name": "공연_1038",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 9367207.0,
+    "roi": -1.0,
+    "bep": 404.8749812413944
+  },
+  {
+    "performance_name": "공연_1039",
+    "accumulated_sales": 869,
+    "revenue": 48627502,
+    "total_cost": 91019615.742,
+    "roi": -0.4657470084488461,
+    "bep": 1730.8546174786297
+  },
+  {
+    "performance_name": "공연_1040",
+    "accumulated_sales": 1179,
+    "revenue": 37190376,
+    "total_cost": 15341719.489599999,
+    "roi": 1.4241334894182487,
+    "bep": 373.97832968004195
+  },
+  {
+    "performance_name": "공연_1041",
+    "accumulated_sales": 32,
+    "revenue": 434976,
+    "total_cost": 84470287.64,
+    "roi": -0.9948505443493479,
+    "bep": 7220.661711996086
+  },
+  {
+    "performance_name": "공연_1042",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 89893193.0,
+    "roi": -1.0,
+    "bep": 1895.463816678584
+  },
+  {
+    "performance_name": "공연_1043",
+    "accumulated_sales": 695,
+    "revenue": 24493885,
+    "total_cost": 5601035398.576,
+    "roi": -0.9956269005180315,
+    "bep": 184172.71457003764
+  },
+  {
+    "performance_name": "공연_1044",
+    "accumulated_sales": 76,
+    "revenue": 3331384,
+    "total_cost": 107064924.88,
+    "roi": -0.9688844502180909,
+    "bep": 3015.7623184249333
+  },
+  {
+    "performance_name": "공연_1045",
+    "accumulated_sales": 254,
+    "revenue": 22628098,
+    "total_cost": 4769705127.8618,
+    "roi": -0.9952558706684361,
+    "bep": 64772.53218909787
+  },
+  {
+    "performance_name": "공연_1046",
+    "accumulated_sales": 402,
+    "revenue": 4856964,
+    "total_cost": 998372725327.304,
+    "roi": -0.9999951351195032,
+    "bep": 101514733.46668364
+  },
+  {
+    "performance_name": "공연_1047",
+    "accumulated_sales": 226,
+    "revenue": 5109634,
+    "total_cost": 95726772.3938,
+    "roi": -0.9466227276630614,
+    "bep": 5402.303477520445
+  },
+  {
+    "performance_name": "공연_1048",
+    "accumulated_sales": 1724,
+    "revenue": 73278620,
+    "total_cost": 542939585.234,
+    "roi": -0.8650335654409544,
+    "bep": 14889.192772759628
+  },
+  {
+    "performance_name": "공연_1049",
+    "accumulated_sales": 1992,
+    "revenue": 58817784,
+    "total_cost": 1133861756.2304,
+    "roi": -0.9481261417656913,
+    "bep": 48408.17185152814
+  },
+  {
+    "performance_name": "공연_1050",
+    "accumulated_sales": 1077,
+    "revenue": 48829026,
+    "total_cost": 90878955.9458,
+    "roi": -0.4627026081910369,
+    "bep": 2185.4934965645843
+  },
+  {
+    "performance_name": "공연_1051",
+    "accumulated_sales": 334,
+    "revenue": 15811226,
+    "total_cost": 181385063.7006,
+    "roi": -0.9128306064599756,
+    "bep": 4463.909192932107
+  },
+  {
+    "performance_name": "공연_1052",
+    "accumulated_sales": 3465,
+    "revenue": 230342805,
+    "total_cost": 2243579124.859,
+    "roi": -0.8973324352826307,
+    "bep": 43513.53845939251
+  },
+  {
+    "performance_name": "공연_1053",
+    "accumulated_sales": 117,
+    "revenue": 10092069,
+    "total_cost": 8114477965.2113,
+    "roi": -0.9987562885692379,
+    "bep": 107827.95840020751
+  },
+  {
+    "performance_name": "공연_1054",
+    "accumulated_sales": 297,
+    "revenue": 15073641,
+    "total_cost": 3982977202.6176,
+    "roi": -0.996215483987683,
+    "bep": 88497.21473045538
+  },
+  {
+    "performance_name": "공연_1055",
+    "accumulated_sales": 8,
+    "revenue": 756672,
+    "total_cost": 36485175170.4832,
+    "roi": -0.9999792608368614,
+    "bep": 491766.830337828
+  },
+  {
+    "performance_name": "공연_1056",
+    "accumulated_sales": 2332,
+    "revenue": 78714328,
+    "total_cost": 6493222732.9456,
+    "roi": -0.9878774637437561,
+    "bep": 215904.69655283433
+  },
+  {
+    "performance_name": "공연_1057",
+    "accumulated_sales": 1039,
+    "revenue": 28672244,
+    "total_cost": 912983927389.2465,
+    "roi": -0.9999685950177875,
+    "bep": 42721704.773948774
+  },
+  {
+    "performance_name": "공연_1058",
+    "accumulated_sales": 334,
+    "revenue": 12940496,
+    "total_cost": 7770457451.1376,
+    "roi": -0.9983346545449386,
+    "bep": 240296.83379422594
+  },
+  {
+    "performance_name": "공연_1059",
+    "accumulated_sales": 2182,
+    "revenue": 89782754,
+    "total_cost": 5650014169.5242,
+    "roi": -0.9841092869316537,
+    "bep": 179356.38919653514
+  },
+  {
+    "performance_name": "공연_1060",
+    "accumulated_sales": 345,
+    "revenue": 630660,
+    "total_cost": 2196438210.412,
+    "roi": -0.9997128715039602,
+    "bep": 1517404.3982273445
+  },
+  {
+    "performance_name": "공연_1061",
+    "accumulated_sales": 29,
+    "revenue": 1148922,
+    "total_cost": 75771050.4552,
+    "roi": -0.9848369265953452,
+    "bep": 2358.9616875300635
+  },
+  {
+    "performance_name": "공연_1062",
+    "accumulated_sales": 94,
+    "revenue": 4159218,
+    "total_cost": 1377944470.4432,
+    "roi": -0.9969815779305953,
+    "bep": 41076.17972727687
+  },
+  {
+    "performance_name": "공연_1063",
+    "accumulated_sales": 3,
+    "revenue": 181098,
+    "total_cost": 4335075279.131,
+    "roi": -0.999958224946895,
+    "bep": 85440.47075283759
+  },
+  {
+    "performance_name": "공연_1064",
+    "accumulated_sales": 95,
+    "revenue": 20799395,
+    "total_cost": 94259125.9245,
+    "roi": -0.779338129905215,
+    "bep": 538.2857092450903
+  },
+  {
+    "performance_name": "공연_1065",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 47593717648.0,
+    "roi": -1.0,
+    "bep": 1796997.8407391417
+  },
+  {
+    "performance_name": "공연_1066",
+    "accumulated_sales": 345,
+    "revenue": 6427695,
+    "total_cost": 56962462.157,
+    "roi": -0.8871591087076963,
+    "bep": 3623.223706718085
+  },
+  {
+    "performance_name": "공연_1067",
+    "accumulated_sales": 78,
+    "revenue": 639756,
+    "total_cost": 73228754.718,
+    "roi": -0.9912635958038114,
+    "bep": 10374.868343948801
+  },
+  {
+    "performance_name": "공연_1068",
+    "accumulated_sales": 11,
+    "revenue": 3297184,
+    "total_cost": 363018140.304,
+    "roi": -0.990917302377124,
+    "bep": 1476.3161593456778
+  },
+  {
+    "performance_name": "공연_1069",
+    "accumulated_sales": 24,
+    "revenue": 1481016,
+    "total_cost": 7194054829.2888,
+    "roi": -0.9997941333454994,
+    "bep": 133124.73971716568
+  },
+  {
+    "performance_name": "공연_1070",
+    "accumulated_sales": 543,
+    "revenue": 14463348,
+    "total_cost": 174590472.3176,
+    "roi": -0.917158434775928,
+    "bep": 8312.036695003597
+  },
+  {
+    "performance_name": "공연_1071",
+    "accumulated_sales": 13,
+    "revenue": 740662,
+    "total_cost": 2418609057.274,
+    "roi": -0.9996937653078853,
+    "bep": 54913.51941429356
+  },
+  {
+    "performance_name": "공연_1072",
+    "accumulated_sales": 4,
+    "revenue": 19560,
+    "total_cost": 2372763432.948,
+    "roi": -0.9999917564474703,
+    "bep": 641240.5480367206
+  },
+  {
+    "performance_name": "공연_1073",
+    "accumulated_sales": 63,
+    "revenue": 1678068,
+    "total_cost": 4620849.9776,
+    "roi": -0.6368486299848316,
+    "bep": 189.0052209676164
+  },
+  {
+    "performance_name": "공연_1074",
+    "accumulated_sales": 237,
+    "revenue": 7099335,
+    "total_cost": 229620703.3225,
+    "roi": -0.9690823392783139,
+    "bep": 9447.814292217412
+  },
+  {
+    "performance_name": "공연_1075",
+    "accumulated_sales": 63,
+    "revenue": 1040634,
+    "total_cost": 2662197536.4774,
+    "roi": -0.99960910714335,
+    "bep": 194424.78548171953
+  },
+  {
+    "performance_name": "공연_1076",
+    "accumulated_sales": 630,
+    "revenue": 88241580,
+    "total_cost": 130580777.686,
+    "roi": -0.3242375978783846,
+    "bep": 986.3365991121422
+  },
+  {
+    "performance_name": "공연_1077",
+    "accumulated_sales": 0,
+    "revenue": 0,
+    "total_cost": 103452875.0,
+    "roi": -1.0,
+    "bep": 1638.7772976454783
+  },
+  {
+    "performance_name": "공연_1078",
+    "accumulated_sales": 42,
+    "revenue": 1482348,
+    "total_cost": 1846106175.1412,
+    "roi": -0.9991970407661485,
+    "bep": 62402.715885996826
+  },
+  {
+    "performance_name": "공연_1079",
+    "accumulated_sales": 791,
+    "revenue": 67511059,
+    "total_cost": 108621879.8363,
+    "roi": -0.37847642572800794,
+    "bep": 1397.419486871175
+  },
+  {
+    "performance_name": "공연_1080",
+    "accumulated_sales": 352,
+    "revenue": 29834816,
+    "total_cost": 9760867697.5952,
+    "roi": -0.9969434258383247,
+    "bep": 142039.78167988677
+  },
+  {
+    "performance_name": "공연_1081",
+    "accumulated_sales": 139,
+    "revenue": 13920850,
+    "total_cost": 169879730.65,
+    "roi": -0.9180546734637762,
+    "bep": 2012.950574138792
+  },
+  {
+    "performance_name": "공연_1082",
+    "accumulated_sales": 139,
+    "revenue": 1364146,
+    "total_cost": 8862857484.8644,
+    "roi": -0.9998460828234765,
+    "bep": 1016281.3520543555
+  },
+  {
+    "performance_name": "공연_1083",
+    "accumulated_sales": 255,
+    "revenue": 10358610,
+    "total_cost": 299899094.737,
+    "roi": -0.9654596823338727,
+    "bep": 8278.9522065064
+  },
+  {
+    "performance_name": "공연_1084",
+    "accumulated_sales": 707,
+    "revenue": 18389777,
+    "total_cost": 6662831892.6108,
+    "roi": -0.9972399458223771,
+    "bep": 284663.6386042441
+  },
+  {
+    "performance_name": "공연_1085",
+    "accumulated_sales": 126,
+    "revenue": 1340514,
+    "total_cost": 28735154.0328,
+    "roi": -0.9533493365488885,
+    "bep": 3537.401984569178
+  },
+  {
+    "performance_name": "공연_1086",
+    "accumulated_sales": 60,
+    "revenue": 819960,
+    "total_cost": 9602975767.968,
+    "roi": -0.9999146139676063,
+    "bep": 781455.730784715
+  },
+  {
+    "performance_name": "공연_1087",
+    "accumulated_sales": 164,
+    "revenue": 6870780,
+    "total_cost": 104181238.09,
+    "roi": -0.9340497374962613,
+    "bep": 2790.0288015794417
+  },
+  {
+    "performance_name": "공연_1088",
+    "accumulated_sales": 176,
+    "revenue": 7053552,
+    "total_cost": 1492035188.8544,
+    "roi": -0.9952725297280584,
+    "bep": 43624.89010952228
+  },
+  {
+    "performance_name": "공연_1089",
+    "accumulated_sales": 210,
+    "revenue": 3747870,
+    "total_cost": 93581016.057,
+    "roi": -0.9599505310167056,
+    "bep": 6672.338189542424
+  },
+  {
+    "performance_name": "공연_1090",
+    "accumulated_sales": 119,
+    "revenue": 1415981,
+    "total_cost": 193435828100.1583,
+    "roi": -0.999992679841093,
+    "bep": 21511775.339311864
+  },
+  {
+    "performance_name": "공연_1091",
+    "accumulated_sales": 364,
+    "revenue": 6513052,
+    "total_cost": 5693729334.862,
+    "roi": -0.9988561008757263,
+    "bep": 407076.57494384673
+  },
+  {
+    "performance_name": "공연_1092",
+    "accumulated_sales": 836,
+    "revenue": 23902912,
+    "total_cost": 323806360.8832,
+    "roi": -0.9261814624802197,
+    "bep": 14006.603442407453
+  },
+  {
+    "performance_name": "공연_1093",
+    "accumulated_sales": 11,
+    "revenue": 358391,
+    "total_cost": 4126572178.2762,
+    "roi": -0.9999131504346667,
+    "bep": 154117.57878854586
+  },
+  {
+    "performance_name": "공연_1094",
+    "accumulated_sales": 80,
+    "revenue": 112320,
+    "total_cost": 75911515.16,
+    "roi": -0.9985203825827575,
+    "bep": 60945.87456678776
+  },
+  {
+    "performance_name": "공연_1095",
+    "accumulated_sales": 379,
+    "revenue": 9825575,
+    "total_cost": 90019530.6275,
+    "roi": -0.8908506306186139,
+    "bep": 4469.051443286232
+  },
+  {
+    "performance_name": "공연_1096",
+    "accumulated_sales": 91,
+    "revenue": 2936388,
+    "total_cost": 15271775.7544,
+    "roi": -0.8077245208924714,
+    "bep": 577.236680702954
+  },
+  {
+    "performance_name": "공연_1097",
+    "accumulated_sales": 37,
+    "revenue": 1755872,
+    "total_cost": 4385165566.7376,
+    "roi": -0.9995995882086371,
+    "bep": 114893.84056256071
+  },
+  {
+    "performance_name": "공연_1098",
+    "accumulated_sales": 37,
+    "revenue": 522477,
+    "total_cost": 9013041307.8303,
+    "roi": -0.9999420309990651,
+    "bep": 811937.7373926358
+  },
+  {
+    "performance_name": "공연_1099",
+    "accumulated_sales": 89,
+    "revenue": 1264512,
+    "total_cost": 67321980.2032,
+    "roi": -0.9812169517862772,
+    "bep": 5963.797887396495
+  },
+  {
+    "performance_name": "공연_1100",
+    "accumulated_sales": 133,
+    "revenue": 1035804,
+    "total_cost": 29381526741.2624,
+    "roi": -0.999964746420119,
+    "bep": 4690005.582100195
+  }
+]

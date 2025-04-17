@@ -1,0 +1,37 @@
+[
+  {
+    "scale": "좌석 미상",
+    "performance_count": 580,
+    "total_ticket_sales": 209112
+  },
+  {
+    "scale": "1~300석 미만",
+    "performance_count": 6616,
+    "total_ticket_sales": 2845973
+  },
+  {
+    "scale": "300~500석 미만",
+    "performance_count": 3742,
+    "total_ticket_sales": 2353712
+  },
+  {
+    "scale": "500~1,000석 미만",
+    "performance_count": 3910,
+    "total_ticket_sales": 2906755
+  },
+  {
+    "scale": "1,000~5,000석 미만",
+    "performance_count": 3735,
+    "total_ticket_sales": 7293316
+  },
+  {
+    "scale": "5,000~10,000석 미만",
+    "performance_count": 47,
+    "total_ticket_sales": 291825
+  },
+  {
+    "scale": "10,000석 이상",
+    "performance_count": 86,
+    "total_ticket_sales": 1280626
+  }
+]

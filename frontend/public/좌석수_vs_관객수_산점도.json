@@ -1,0 +1,702 @@
+[
+  {
+    "performance_name": "공연_1001",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "뮤지컬",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1002",
+    "capacity": 58,
+    "accumulated_sales": 12,
+    "genre": "복합",
+    "predicted_sales": 12
+  },
+  {
+    "performance_name": "공연_1003",
+    "capacity": 13,
+    "accumulated_sales": 5,
+    "genre": "한국음악",
+    "predicted_sales": 5
+  },
+  {
+    "performance_name": "공연_1004",
+    "capacity": 879,
+    "accumulated_sales": 304,
+    "genre": "대중무용",
+    "predicted_sales": 304
+  },
+  {
+    "performance_name": "공연_1005",
+    "capacity": 141,
+    "accumulated_sales": 135,
+    "genre": "연극",
+    "predicted_sales": 135
+  },
+  {
+    "performance_name": "공연_1006",
+    "capacity": 126,
+    "accumulated_sales": 37,
+    "genre": "연극",
+    "predicted_sales": 37
+  },
+  {
+    "performance_name": "공연_1007",
+    "capacity": 115,
+    "accumulated_sales": 23,
+    "genre": "연극",
+    "predicted_sales": 23
+  },
+  {
+    "performance_name": "공연_1008",
+    "capacity": 72,
+    "accumulated_sales": 45,
+    "genre": "대중음악",
+    "predicted_sales": 45
+  },
+  {
+    "performance_name": "공연_1009",
+    "capacity": 877,
+    "accumulated_sales": 269,
+    "genre": "대중무용",
+    "predicted_sales": 269
+  },
+  {
+    "performance_name": "공연_1010",
+    "capacity": 53,
+    "accumulated_sales": 44,
+    "genre": "한국음악",
+    "predicted_sales": 44
+  },
+  {
+    "performance_name": "공연_1011",
+    "capacity": 3771,
+    "accumulated_sales": 2158,
+    "genre": "연극",
+    "predicted_sales": 2158
+  },
+  {
+    "performance_name": "공연_1012",
+    "capacity": 280,
+    "accumulated_sales": 43,
+    "genre": "복합",
+    "predicted_sales": 43
+  },
+  {
+    "performance_name": "공연_1013",
+    "capacity": 45,
+    "accumulated_sales": 40,
+    "genre": "대중음악",
+    "predicted_sales": 40
+  },
+  {
+    "performance_name": "공연_1014",
+    "capacity": 217,
+    "accumulated_sales": 178,
+    "genre": "뮤지컬",
+    "predicted_sales": 178
+  },
+  {
+    "performance_name": "공연_1015",
+    "capacity": 17,
+    "accumulated_sales": 14,
+    "genre": "뮤지컬",
+    "predicted_sales": 14
+  },
+  {
+    "performance_name": "공연_1016",
+    "capacity": 1122,
+    "accumulated_sales": 533,
+    "genre": "뮤지컬",
+    "predicted_sales": 533
+  },
+  {
+    "performance_name": "공연_1017",
+    "capacity": 547,
+    "accumulated_sales": 70,
+    "genre": "뮤지컬",
+    "predicted_sales": 70
+  },
+  {
+    "performance_name": "공연_1018",
+    "capacity": 355,
+    "accumulated_sales": 138,
+    "genre": "무용",
+    "predicted_sales": 138
+  },
+  {
+    "performance_name": "공연_1019",
+    "capacity": 619,
+    "accumulated_sales": 370,
+    "genre": "뮤지컬",
+    "predicted_sales": 370
+  },
+  {
+    "performance_name": "공연_1020",
+    "capacity": 259,
+    "accumulated_sales": 11,
+    "genre": "뮤지컬",
+    "predicted_sales": 11
+  },
+  {
+    "performance_name": "공연_1021",
+    "capacity": 808,
+    "accumulated_sales": 730,
+    "genre": "대중무용",
+    "predicted_sales": 730
+  },
+  {
+    "performance_name": "공연_1022",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "연극",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1023",
+    "capacity": 306,
+    "accumulated_sales": 213,
+    "genre": "뮤지컬",
+    "predicted_sales": 213
+  },
+  {
+    "performance_name": "공연_1024",
+    "capacity": 288,
+    "accumulated_sales": 68,
+    "genre": "뮤지컬",
+    "predicted_sales": 68
+  },
+  {
+    "performance_name": "공연_1025",
+    "capacity": 102,
+    "accumulated_sales": 58,
+    "genre": "뮤지컬",
+    "predicted_sales": 58
+  },
+  {
+    "performance_name": "공연_1026",
+    "capacity": 280,
+    "accumulated_sales": 253,
+    "genre": "대중음악",
+    "predicted_sales": 253
+  },
+  {
+    "performance_name": "공연_1027",
+    "capacity": 215,
+    "accumulated_sales": 168,
+    "genre": "뮤지컬",
+    "predicted_sales": 168
+  },
+  {
+    "performance_name": "공연_1028",
+    "capacity": 113,
+    "accumulated_sales": 85,
+    "genre": "무용",
+    "predicted_sales": 85
+  },
+  {
+    "performance_name": "공연_1029",
+    "capacity": 230,
+    "accumulated_sales": 222,
+    "genre": "대중무용",
+    "predicted_sales": 222
+  },
+  {
+    "performance_name": "공연_1030",
+    "capacity": 9827,
+    "accumulated_sales": 3815,
+    "genre": "연극",
+    "predicted_sales": 3815
+  },
+  {
+    "performance_name": "공연_1031",
+    "capacity": 143,
+    "accumulated_sales": 105,
+    "genre": "대중무용",
+    "predicted_sales": 105
+  },
+  {
+    "performance_name": "공연_1032",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "연극",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1033",
+    "capacity": 914,
+    "accumulated_sales": 870,
+    "genre": "연극",
+    "predicted_sales": 870
+  },
+  {
+    "performance_name": "공연_1034",
+    "capacity": 4560,
+    "accumulated_sales": 3329,
+    "genre": "복합",
+    "predicted_sales": 3329
+  },
+  {
+    "performance_name": "공연_1035",
+    "capacity": 4,
+    "accumulated_sales": 1,
+    "genre": "복합",
+    "predicted_sales": 1
+  },
+  {
+    "performance_name": "공연_1036",
+    "capacity": 82,
+    "accumulated_sales": 25,
+    "genre": "대중음악",
+    "predicted_sales": 25
+  },
+  {
+    "performance_name": "공연_1037",
+    "capacity": 857,
+    "accumulated_sales": 200,
+    "genre": "뮤지컬",
+    "predicted_sales": 200
+  },
+  {
+    "performance_name": "공연_1038",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "연극",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1039",
+    "capacity": 8462,
+    "accumulated_sales": 869,
+    "genre": "서양음악",
+    "predicted_sales": 869
+  },
+  {
+    "performance_name": "공연_1040",
+    "capacity": 2393,
+    "accumulated_sales": 1179,
+    "genre": "뮤지컬",
+    "predicted_sales": 1179
+  },
+  {
+    "performance_name": "공연_1041",
+    "capacity": 143,
+    "accumulated_sales": 32,
+    "genre": "연극",
+    "predicted_sales": 32
+  },
+  {
+    "performance_name": "공연_1042",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "무용",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1043",
+    "capacity": 1636,
+    "accumulated_sales": 695,
+    "genre": "연극",
+    "predicted_sales": 695
+  },
+  {
+    "performance_name": "공연_1044",
+    "capacity": 111,
+    "accumulated_sales": 76,
+    "genre": "대중음악",
+    "predicted_sales": 76
+  },
+  {
+    "performance_name": "공연_1045",
+    "capacity": 495,
+    "accumulated_sales": 254,
+    "genre": "뮤지컬",
+    "predicted_sales": 254
+  },
+  {
+    "performance_name": "공연_1046",
+    "capacity": 672,
+    "accumulated_sales": 402,
+    "genre": "서양음악",
+    "predicted_sales": 402
+  },
+  {
+    "performance_name": "공연_1047",
+    "capacity": 326,
+    "accumulated_sales": 226,
+    "genre": "뮤지컬",
+    "predicted_sales": 226
+  },
+  {
+    "performance_name": "공연_1048",
+    "capacity": 5759,
+    "accumulated_sales": 1724,
+    "genre": "무용",
+    "predicted_sales": 1724
+  },
+  {
+    "performance_name": "공연_1049",
+    "capacity": 8112,
+    "accumulated_sales": 1992,
+    "genre": "대중무용",
+    "predicted_sales": 1992
+  },
+  {
+    "performance_name": "공연_1050",
+    "capacity": 1396,
+    "accumulated_sales": 1077,
+    "genre": "뮤지컬",
+    "predicted_sales": 1077
+  },
+  {
+    "performance_name": "공연_1051",
+    "capacity": 391,
+    "accumulated_sales": 334,
+    "genre": "복합",
+    "predicted_sales": 334
+  },
+  {
+    "performance_name": "공연_1052",
+    "capacity": 4471,
+    "accumulated_sales": 3465,
+    "genre": "대중음악",
+    "predicted_sales": 3465
+  },
+  {
+    "performance_name": "공연_1053",
+    "capacity": 676,
+    "accumulated_sales": 117,
+    "genre": "대중음악",
+    "predicted_sales": 117
+  },
+  {
+    "performance_name": "공연_1054",
+    "capacity": 454,
+    "accumulated_sales": 297,
+    "genre": "대중음악",
+    "predicted_sales": 297
+  },
+  {
+    "performance_name": "공연_1055",
+    "capacity": 136,
+    "accumulated_sales": 8,
+    "genre": "대중무용",
+    "predicted_sales": 8
+  },
+  {
+    "performance_name": "공연_1056",
+    "capacity": 4305,
+    "accumulated_sales": 2332,
+    "genre": "대중음악",
+    "predicted_sales": 2332
+  },
+  {
+    "performance_name": "공연_1057",
+    "capacity": 1177,
+    "accumulated_sales": 1039,
+    "genre": "연극",
+    "predicted_sales": 1039
+  },
+  {
+    "performance_name": "공연_1058",
+    "capacity": 486,
+    "accumulated_sales": 334,
+    "genre": "뮤지컬",
+    "predicted_sales": 334
+  },
+  {
+    "performance_name": "공연_1059",
+    "capacity": 2881,
+    "accumulated_sales": 2182,
+    "genre": "연극",
+    "predicted_sales": 2182
+  },
+  {
+    "performance_name": "공연_1060",
+    "capacity": 774,
+    "accumulated_sales": 345,
+    "genre": "뮤지컬",
+    "predicted_sales": 345
+  },
+  {
+    "performance_name": "공연_1061",
+    "capacity": 64,
+    "accumulated_sales": 29,
+    "genre": "뮤지컬",
+    "predicted_sales": 29
+  },
+  {
+    "performance_name": "공연_1062",
+    "capacity": 194,
+    "accumulated_sales": 94,
+    "genre": "뮤지컬",
+    "predicted_sales": 94
+  },
+  {
+    "performance_name": "공연_1063",
+    "capacity": 41,
+    "accumulated_sales": 3,
+    "genre": "대중음악",
+    "predicted_sales": 3
+  },
+  {
+    "performance_name": "공연_1064",
+    "capacity": 283,
+    "accumulated_sales": 95,
+    "genre": "뮤지컬",
+    "predicted_sales": 95
+  },
+  {
+    "performance_name": "공연_1065",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "뮤지컬",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1066",
+    "capacity": 375,
+    "accumulated_sales": 345,
+    "genre": "무용",
+    "predicted_sales": 345
+  },
+  {
+    "performance_name": "공연_1067",
+    "capacity": 186,
+    "accumulated_sales": 78,
+    "genre": "연극",
+    "predicted_sales": 78
+  },
+  {
+    "performance_name": "공연_1068",
+    "capacity": 795,
+    "accumulated_sales": 11,
+    "genre": "대중음악",
+    "predicted_sales": 11
+  },
+  {
+    "performance_name": "공연_1069",
+    "capacity": 99,
+    "accumulated_sales": 24,
+    "genre": "연극",
+    "predicted_sales": 24
+  },
+  {
+    "performance_name": "공연_1070",
+    "capacity": 860,
+    "accumulated_sales": 543,
+    "genre": "서커스/마술",
+    "predicted_sales": 543
+  },
+  {
+    "performance_name": "공연_1071",
+    "capacity": 36,
+    "accumulated_sales": 13,
+    "genre": "대중음악",
+    "predicted_sales": 13
+  },
+  {
+    "performance_name": "공연_1072",
+    "capacity": 24,
+    "accumulated_sales": 4,
+    "genre": "뮤지컬",
+    "predicted_sales": 4
+  },
+  {
+    "performance_name": "공연_1073",
+    "capacity": 117,
+    "accumulated_sales": 63,
+    "genre": "연극",
+    "predicted_sales": 63
+  },
+  {
+    "performance_name": "공연_1074",
+    "capacity": 895,
+    "accumulated_sales": 237,
+    "genre": "대중음악",
+    "predicted_sales": 237
+  },
+  {
+    "performance_name": "공연_1075",
+    "capacity": 149,
+    "accumulated_sales": 63,
+    "genre": "한국음악",
+    "predicted_sales": 63
+  },
+  {
+    "performance_name": "공연_1076",
+    "capacity": 1326,
+    "accumulated_sales": 630,
+    "genre": "한국음악",
+    "predicted_sales": 630
+  },
+  {
+    "performance_name": "공연_1077",
+    "capacity": 0,
+    "accumulated_sales": 0,
+    "genre": "대중음악",
+    "predicted_sales": 0
+  },
+  {
+    "performance_name": "공연_1078",
+    "capacity": 120,
+    "accumulated_sales": 42,
+    "genre": "연극",
+    "predicted_sales": 42
+  },
+  {
+    "performance_name": "공연_1079",
+    "capacity": 5827,
+    "accumulated_sales": 791,
+    "genre": "뮤지컬",
+    "predicted_sales": 791
+  },
+  {
+    "performance_name": "공연_1080",
+    "capacity": 397,
+    "accumulated_sales": 352,
+    "genre": "연극",
+    "predicted_sales": 352
+  },
+  {
+    "performance_name": "공연_1081",
+    "capacity": 143,
+    "accumulated_sales": 139,
+    "genre": "대중음악",
+    "predicted_sales": 139
+  },
+  {
+    "performance_name": "공연_1082",
+    "capacity": 416,
+    "accumulated_sales": 139,
+    "genre": "서양음악",
+    "predicted_sales": 139
+  },
+  {
+    "performance_name": "공연_1083",
+    "capacity": 462,
+    "accumulated_sales": 255,
+    "genre": "뮤지컬",
+    "predicted_sales": 255
+  },
+  {
+    "performance_name": "공연_1084",
+    "capacity": 927,
+    "accumulated_sales": 707,
+    "genre": "연극",
+    "predicted_sales": 707
+  },
+  {
+    "performance_name": "공연_1085",
+    "capacity": 187,
+    "accumulated_sales": 126,
+    "genre": "뮤지컬",
+    "predicted_sales": 126
+  },
+  {
+    "performance_name": "공연_1086",
+    "capacity": 84,
+    "accumulated_sales": 60,
+    "genre": "뮤지컬",
+    "predicted_sales": 60
+  },
+  {
+    "performance_name": "공연_1087",
+    "capacity": 394,
+    "accumulated_sales": 164,
+    "genre": "한국음악",
+    "predicted_sales": 164
+  },
+  {
+    "performance_name": "공연_1088",
+    "capacity": 2455,
+    "accumulated_sales": 176,
+    "genre": "서양음악",
+    "predicted_sales": 176
+  },
+  {
+    "performance_name": "공연_1089",
+    "capacity": 353,
+    "accumulated_sales": 210,
+    "genre": "대중음악",
+    "predicted_sales": 210
+  },
+  {
+    "performance_name": "공연_1090",
+    "capacity": 137,
+    "accumulated_sales": 119,
+    "genre": "무용",
+    "predicted_sales": 119
+  },
+  {
+    "performance_name": "공연_1091",
+    "capacity": 859,
+    "accumulated_sales": 364,
+    "genre": "연극",
+    "predicted_sales": 364
+  },
+  {
+    "performance_name": "공연_1092",
+    "capacity": 979,
+    "accumulated_sales": 836,
+    "genre": "한국음악",
+    "predicted_sales": 836
+  },
+  {
+    "performance_name": "공연_1093",
+    "capacity": 37,
+    "accumulated_sales": 11,
+    "genre": "한국음악",
+    "predicted_sales": 11
+  },
+  {
+    "performance_name": "공연_1094",
+    "capacity": 88,
+    "accumulated_sales": 80,
+    "genre": "대중무용",
+    "predicted_sales": 80
+  },
+  {
+    "performance_name": "공연_1095",
+    "capacity": 436,
+    "accumulated_sales": 379,
+    "genre": "대중음악",
+    "predicted_sales": 379
+  },
+  {
+    "performance_name": "공연_1096",
+    "capacity": 126,
+    "accumulated_sales": 91,
+    "genre": "무용",
+    "predicted_sales": 91
+  },
+  {
+    "performance_name": "공연_1097",
+    "capacity": 84,
+    "accumulated_sales": 37,
+    "genre": "무용",
+    "predicted_sales": 37
+  },
+  {
+    "performance_name": "공연_1098",
+    "capacity": 237,
+    "accumulated_sales": 37,
+    "genre": "뮤지컬",
+    "predicted_sales": 37
+  },
+  {
+    "performance_name": "공연_1099",
+    "capacity": 195,
+    "accumulated_sales": 89,
+    "genre": "연극",
+    "predicted_sales": 89
+  },
+  {
+    "performance_name": "공연_1100",
+    "capacity": 139,
+    "accumulated_sales": 133,
+    "genre": "연극",
+    "predicted_sales": 133
+  }
+]
