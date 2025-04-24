@@ -41,10 +41,20 @@
 
 ## 🛠️ 기술 스택
 
-- **Frontend**: Next.js, React.js, Material CSS
-- **Data Visualization**: Recharts
-- **State Management**: Custom Hook (`useCsvData`)
-- **배포환경**: [Vercel](https://vercel.com/), GitHub Pages (optional)
+### 🖥️ Frontend
+- **Framework**: Next.js, React.js
+- **UI**: MUI
+- **Charting**: Recharts, D3.js
+- **Data State**: `useCsvData` 커스텀 훅
+
+### 🔧 Backend
+- **Framework**: FastAPI
+- **언어**: Python 3.10+
+- **기능**:
+  - JSON/CSV 기반 데이터 처리 및 제공
+  - 예측 모델 연동 (예: 관객 수 예측, 손익 계산)
+  - REST API 제공
+
 
 ## 🧩 구성 구조
 /components ├── Chart/ ├── Table/ ├── Insights/ └── Sidebar.jsx
